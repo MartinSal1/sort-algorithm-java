@@ -1,0 +1,13 @@
+## Java
+
+*.class
+*.jar
+
+## OS X
+.DS_Store
+
+
+## Visual Studio Code
+
+.vscode/
+.code-workspace
